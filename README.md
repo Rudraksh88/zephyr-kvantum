@@ -17,6 +17,10 @@ Meticulously crafted to add a touch of luxury and elegance with its refined mono
 ![Preview_ContextMenu.png](image/Preview_ContextMenu.png)
 ![Preview_Dolphin.png](image/Preview_Dolphin.png)
 
+> [!TIP]
+> Wallpaper from wallhaven.cc
+[https://wallhaven.cc/w/72wome](https://wallhaven.cc/w/72wome)
+
 # Credits
 I'd like to acknowledge the following individuals and projects that influenced this work:
 
