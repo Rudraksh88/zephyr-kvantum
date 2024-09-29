@@ -20,6 +20,8 @@ Meticulously crafted to add a touch of luxury and elegance with its refined mono
 > [!TIP]
 > Wallpaper from wallhaven.cc
 [https://wallhaven.cc/w/72wome](https://wallhaven.cc/w/72wome)
+> Window Decoration: Personal fork of Sierra Breeze Enhanced
+> Icons: Personal fork of WhiteSur-Dark
 
 # Credits
 I'd like to acknowledge the following individuals and projects that influenced this work:
