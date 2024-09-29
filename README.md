@@ -18,13 +18,12 @@ Meticulously crafted to add a touch of luxury and elegance with its refined mono
 ![Preview_Dolphin.png](image/Preview_Dolphin.png)
 
 > [!TIP]
-> Wallpaper from wallhaven.cc
-[https://wallhaven.cc/w/72wome](https://wallhaven.cc/w/72wome)
-> Window Decoration: Personal fork of Sierra Breeze Enhanced
-> Icons: Personal fork of WhiteSur-Dark
+> * Wallpaper: [https://wallhaven.cc/w/72wome](https://wallhaven.cc/w/72wome)
+> * Window Decoration: Personal fork of Sierra Breeze Enhanced  
+> * Icons: Personal fork of WhiteSur-Dark  
 
 # Credits
-I'd like to acknowledge the following individuals and projects that influenced this work:
+I want to acknowledge the following individuals and projects that influenced this work:
 
 * [tsujan](https://github.com/tsujan) for creating Kvantum, the SVG-based theme engine for Qt
 * [Patrik Wyde](https://github.com/pwyde) for creating [Monochrome-KDE](https://github.com/pwyde/monochrome-kde), which served as initial inspiration
