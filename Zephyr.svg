@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 930.00215 635.00043"
    id="svg415"
-   sodipodi:docname="MonochromeBlur.svg"
+   sodipodi:docname="Zephyr.svg"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,9 +21,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="3.8890872"
-     inkscape:cy="210.71782"
+     inkscape:zoom="8.0000002"
+     inkscape:cx="558.93749"
+     inkscape:cy="602.12498"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
@@ -1179,7 +1179,7 @@
        y="520"
        width="40"
        height="40"
-       style="fill:#1a1a1a;fill-opacity:1"
+       style="fill:#1a1a1a;fill-opacity:1;opacity:0.995"
        x="0" />
   </g>
   <g
