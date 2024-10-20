@@ -77,7 +77,7 @@ shadowless_popup=false
 tooltip_blur_radius=2
 
 [GeneralColors]
-window.color=#1e1e20
+window.color=#121212
 base.color=#00000035
 
 ORIGINAL VALUES IS 1E1E20 ALSO ffffff0d
