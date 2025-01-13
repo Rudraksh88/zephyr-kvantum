@@ -21,15 +21,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="9.694636"
-     inkscape:cx="801.16469"
-     inkscape:cy="115.26993"
+     inkscape:zoom="27.420571"
+     inkscape:cx="665.68635"
+     inkscape:cy="117.48479"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg415"
+     inkscape:current-layer="g243"
      showguides="false">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -5082,21 +5082,41 @@
          width="16"
          height="16"
          ry="2"
-         style="opacity:0;fill:#ffffff"
+         style="display:inline;opacity:0;fill:#ffffff"
          id="rect231" />
-      <rect
-         x="86.999985"
-         y="126.99998"
-         width="12.000034"
-         height="12.000034"
-         ry="1"
-         style="opacity:0.312;fill:#000000;fill-opacity:1;stroke-width:0.857145"
-         id="rect232"
-         rx="1" />
       <path
-         d="m 86.999309,125 c -1.107999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892001,2 2,2 h 12 c 1.108001,0 2.000001,-0.892 2.000001,-2 v -12 c 0,-1.108 -0.892,-2 -2.000001,-2 z m 1,2 h 10 c 0.553999,0 1,0.446 1,1 v 10 c 0,0.554 -0.446001,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z"
-         style="display:inline;opacity:0.18;fill:#ffffff"
-         id="path2" />
+         d="m 86.999793,125 c -1.107999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892001,2 2,2 h 12 c 1.107997,0 1.999997,-0.892 1.999997,-2 v -12 c 0,-1.108 -0.892,-2 -1.999997,-2 z m 0.791016,1.75 h 10.416015 c 0.577082,0 1.042969,0.46393 1.042969,1.04101 v 10.41797 c 0,0.57708 -0.465887,1.04102 -1.042969,1.04102 H 87.790809 c -0.577082,0 -1.041016,-0.46394 -1.041016,-1.04102 v -10.41797 c 0,-0.57708 0.463934,-1.04101 1.041016,-1.04101 z"
+         style="display:inline;opacity:0.22;fill:#ffffff"
+         id="path102"
+         inkscape:label="stroke" />
+      <rect
+         x="86.75"
+         y="126.75"
+         width="12.5"
+         height="12.5"
+         ry="1.0416636"
+         style="display:inline;opacity:0.312;fill:#000000;fill-opacity:1;stroke-width:0.892857"
+         id="rect66-3"
+         rx="1.0416636"
+         inkscape:label="bg" />
+      <g
+         id="g47"
+         inkscape:label="backup"
+         style="display:none">
+        <rect
+           x="86.749306"
+           y="126.75"
+           width="12.5"
+           height="12.5"
+           ry="1.0416636"
+           style="opacity:0.312;fill:#000000;fill-opacity:1;stroke-width:0.892857"
+           id="rect1"
+           rx="1.0416636" />
+        <path
+           d="m 86.999309,125 c -1.107999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892001,2 2,2 h 12 c 1.108001,0 2.000001,-0.892 2.000001,-2 v -12 c 0,-1.108 -0.892,-2 -2.000001,-2 z m 1,2 h 10 c 0.553999,0 1,0.446 1,1 v 10 c 0,0.554 -0.446001,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z"
+           style="display:inline;opacity:0.18;fill:#ffffff"
+           id="path47" />
+      </g>
     </g>
     <g
        id="checkbox-focused"
@@ -5109,19 +5129,39 @@
          ry="2"
          style="opacity:0;fill:#ffffff"
          id="rect233" />
+      <g
+         id="g105"
+         inkscape:label="backup"
+         style="display:none">
+        <path
+           d="m 86.999999,125 c -1.107999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892001,2 2,2 h 12 C 100.108,141 101,140.108 101,139 v -12 c 0,-1.108 -0.892,-2 -2.000001,-2 z m 1,2 h 10 c 0.553999,0 1,0.446 1,1 v 10 c 0,0.554 -0.446001,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z"
+           style="display:inline;opacity:0.28;fill:#ffffff"
+           id="path2-3" />
+        <rect
+           x="86.999985"
+           y="126.99998"
+           width="12.000023"
+           height="12.000023"
+           ry="1"
+           style="opacity:0.35;fill:#000000;fill-opacity:1;stroke-width:0.857144"
+           id="rect234"
+           rx="1" />
+      </g>
       <path
-         d="m 86.999999,125 c -1.107999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892001,2 2,2 h 12 C 100.108,141 101,140.108 101,139 v -12 c 0,-1.108 -0.892,-2 -2.000001,-2 z m 1,2 h 10 c 0.553999,0 1,0.446 1,1 v 10 c 0,0.554 -0.446001,1 -1,1 h -10 c -0.554,0 -1,-0.446 -1,-1 v -10 c 0,-0.554 0.446,-1 1,-1 z"
-         style="display:inline;opacity:0.18;fill:#ffffff"
-         id="path2-3" />
+         d="m 86.999796,125 c -1.107999,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892001,2 2,2 h 12 c 1.107994,0 1.999994,-0.892 1.999994,-2 v -12 c 0,-1.108 -0.892,-2 -1.999994,-2 z m 0.791016,1.75 h 10.416015 c 0.577082,0 1.042969,0.46393 1.042969,1.04101 v 10.41797 c 0,0.57708 -0.465887,1.04102 -1.042969,1.04102 H 87.790812 c -0.577082,0 -1.041016,-0.46394 -1.041016,-1.04102 v -10.41797 c 0,-0.57708 0.463934,-1.04101 1.041016,-1.04101 z"
+         style="display:inline;opacity:0.32;fill:#ffffff"
+         id="path102-6"
+         inkscape:label="stroke" />
       <rect
-         x="86.999985"
-         y="126.99998"
-         width="12.000023"
-         height="12.000023"
-         ry="1"
-         style="opacity:0.35;fill:#000000;fill-opacity:1;stroke-width:0.857144"
-         id="rect234"
-         rx="1" />
+         x="86.75"
+         y="126.75"
+         width="12.5"
+         height="12.5"
+         ry="1.0416636"
+         style="display:inline;opacity:0.312;fill:#000000;fill-opacity:1;stroke-width:0.892857"
+         id="rect66-3-7"
+         rx="1.0416636"
+         inkscape:label="bg" />
     </g>
     <g
        id="checkbox-checked-normal"
@@ -5205,7 +5245,7 @@
          r="8"
          inkscape:label="base bg" />
       <circle
-         style="opacity:0.3;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.9026;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.22;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.9026;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
          id="circle14-5"
          cx="7.9999981"
          cy="162"
@@ -5223,7 +5263,7 @@
          r="8"
          inkscape:label="base bg" />
       <circle
-         style="opacity:0.3;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.9026;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.32;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.9026;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
          id="circle14"
          cx="7.999999"
          cy="162"
