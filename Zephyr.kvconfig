@@ -229,7 +229,7 @@ text.margin.left=0
 text.margin.right=0
 frame=true
 frame.left=6
-frame.right=6
+frame.right=7
 frame.expansion=8
 
 [DropDownButton]
@@ -238,6 +238,7 @@ indicator.element=arrow-down
 frame=true
 frame.left=10
 frame.right=10
+indicator.size=10
 
 [IndicatorArrow]
 indicator.element=arrow
@@ -481,7 +482,8 @@ text.press.color=#d2d2d4
 indicator.element=carrow
 frame=true
 frame.left=10
-frame.right=5
+frame.right=7
+indicator.size=10
 
 [GroupBox]
 inherits=GenericFrame
