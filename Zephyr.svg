@@ -21,20 +21,25 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="45.254832"
-     inkscape:cx="705.57107"
-     inkscape:cy="116.41851"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="835.25004"
+     inkscape:cy="54.375003"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g243"
+     inkscape:current-layer="g281"
      showguides="true">
     <sodipodi:guide
        position="633.97173,163.35831"
        orientation="0,-1"
        id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="835.00005,542.2309"
+       orientation="1,0"
+       id="guide66"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -5470,11 +5475,11 @@
       <path
          transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
          d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path250" />
       <path
          d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path251" />
     </g>
     <g
@@ -5483,11 +5488,11 @@
       <path
          transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
          d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
          id="path252" />
       <path
          d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path253" />
     </g>
     <g
@@ -5496,11 +5501,11 @@
       <path
          transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
          d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path254" />
       <path
          d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path255" />
     </g>
     <g
@@ -5509,11 +5514,11 @@
       <path
          transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
          d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
          id="path256" />
       <path
          d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path257" />
     </g>
     <g
@@ -5522,11 +5527,11 @@
       <path
          transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
          d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path258" />
       <path
          d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path259" />
     </g>
     <g
@@ -5535,11 +5540,11 @@
       <path
          transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
          d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
          id="path260" />
       <path
          d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path261" />
     </g>
     <g
@@ -5548,11 +5553,11 @@
       <path
          transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
          d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path262" />
       <path
          d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path263" />
     </g>
     <g
@@ -5561,80 +5566,113 @@
       <path
          transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
          d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
+         style="opacity:0.48;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
          id="path264" />
       <path
          d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.12;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.08;fill:#ffffff"
          id="path265" />
     </g>
     <path
        id="lineedit-normal"
        d="m 241,16 v 32 h 32 V 16 Z"
-       style="opacity:0.45;fill:#141414;fill-rule:evenodd;fill-opacity:1" />
+       style="opacity:0.48;fill:#141414;fill-rule:evenodd;fill-opacity:1" />
     <g
        id="lineedit-focused-left"
        transform="matrix(0.8,0,0,0.98461538,268,-32.001575)">
       <path
-         transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
          d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
-         id="path266" />
+         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         id="path266"
+         transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)" />
       <path
-         d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
+         d="m 21.25,48.7516 v 32.499999 h 2.5 V 48.7516 Z"
+         style="color:#000000;text-indent:0;text-transform:none;display:inline;opacity:0.45;fill:#595959;fill-opacity:1;stroke-width:1"
          id="path267" />
     </g>
     <g
        id="lineedit-focused-bottomleft"
-       transform="matrix(0,-0.8,0.8,0,251.99862,70.9999)">
+       transform="matrix(0,-0.8,0.8,0,251.99862,70.9999)"
+       style="display:inline">
       <path
-         transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
-         d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
-         id="path268" />
-      <path
-         d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
-         id="path269" />
+         d="m 26.249876,41.2516 c -4.125,-5.1e-5 -4.999906,3.37497 -4.999876,7.5 l 4.999751,-5e-6 c 0,-3.125 1.25e-4,-7.499995 1.25e-4,-7.499995 z"
+         style="color:#000000;text-indent:0;text-transform:none;display:inline;opacity:0.32;fill:#ffffff"
+         id="path269"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         style="opacity:0.45;fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke-width:1.02062"
+         id="rect67"
+         width="4.999928"
+         height="2.4999993"
+         x="43.751602"
+         y="-28.74988"
+         transform="rotate(90)"
+         ry="6.0798152e-06" />
+      <rect
+         style="opacity:0.45;fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke-width:0.721688"
+         id="rect68"
+         width="2.4999657"
+         height="2.4999993"
+         x="41.251637"
+         y="-28.74988"
+         transform="rotate(90)"
+         ry="6.0798152e-06" />
     </g>
     <g
        id="lineedit-focused-bottom"
        transform="matrix(0,-0.8,0.98461538,0,242.99832,71)">
       <path
-         transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
-         d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         d="m 26.250125,48.751601 v 32.5 h 2.499751 v -32.5 z"
+         style="opacity:0.45;fill:#161616;fill-opacity:1;fill-rule:evenodd;stroke-width:0.707071"
          id="path270" />
       <path
-         d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
+         d="m 21.25,48.7516 v 32.5 h 5.000002 v -32.5 z"
+         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff;stroke-width:1.41421"
          id="path271" />
     </g>
     <g
        id="lineedit-focused-bottomright"
        transform="matrix(-0.8,0,0,-0.8,345.9998,87.00128)">
-      <path
-         transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
-         d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
-         id="path272" />
+      <rect
+         style="opacity:0.45;fill:#141414;fill-opacity:1;fill-rule:evenodd;stroke-width:1.0206"
+         id="rect67-8"
+         width="4.9997368"
+         height="2.4999993"
+         x="-28.749744"
+         y="-48.751537"
+         transform="scale(-1)"
+         ry="6.0798152e-06" />
       <path
          d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;display:none;opacity:0.32;fill:#ffffff"
          id="path273" />
+      <path
+         d="m 21.249876,46.251539 c -5.1e-5,-4.125 3.37497,-4.999906 7.5,-4.999876 l -5e-6,4.999751 c -3.125,0 -7.499995,1.25e-4 -7.499995,1.25e-4 z"
+         style="color:#000000;text-indent:0;text-transform:none;display:inline;opacity:0.32;fill:#ffffff"
+         id="path269-9"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="path269-9" />
+      <rect
+         style="opacity:0.08;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.721673"
+         id="rect69"
+         width="2.4998684"
+         height="2.4999993"
+         x="-23.750008"
+         y="-48.751537"
+         transform="scale(-1)"
+         ry="6.0798152e-06" />
     </g>
     <g
        id="lineedit-focused-right"
        transform="matrix(-0.8,0,0,0.98461538,345.9998,-32.001575)">
       <path
-         transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
          d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
-         id="path274" />
+         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         id="path274"
+         transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)" />
       <path
          d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;display:inline;opacity:0.45;fill:#595959;fill-opacity:1"
          id="path275" />
     </g>
     <g
@@ -5643,11 +5681,11 @@
       <path
          transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
          d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
+         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
          id="path276" />
       <path
          d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;display:inline;opacity:0.45;fill:#595959;fill-opacity:1"
          id="path277" />
     </g>
     <g
@@ -5656,11 +5694,11 @@
       <path
          transform="matrix(1.25,0,0,1.015625,21.249876,27.423476)"
          d="M 2,21 V 53 H 6 V 21 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path278" />
       <path
          d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;display:inline;opacity:0.45;fill:#595959;fill-opacity:1"
          id="path279" />
     </g>
     <g
@@ -5669,17 +5707,17 @@
       <path
          transform="matrix(1.25,0,0,1.25,21.249876,22.501601)"
          d="M 6,17 C 3.5,17 2,18.5 2,21 H 6 Z"
-         style="opacity:0.41;fill:#262626;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
+         style="opacity:0.45;fill:#141414;fill-rule:evenodd;stroke-width:0.8;fill-opacity:1"
          id="path280" />
       <path
          d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
-         style="color:#000000;text-indent:0;text-transform:none;opacity:0.32;fill:#ffffff"
+         style="color:#000000;text-indent:0;text-transform:none;display:inline;opacity:0.45;fill:#595959;fill-opacity:1"
          id="path281" />
     </g>
     <path
        id="lineedit-focused"
        d="m 291,16 v 32 h 32 V 16 Z"
-       style="opacity:0.41;fill:#262626;fill-rule:evenodd;fill-opacity:1" />
+       style="opacity:0.45;fill:#141414;fill-rule:evenodd;fill-opacity:1" />
   </g>
   <g
      transform="translate(550.00216,45.000002)"
