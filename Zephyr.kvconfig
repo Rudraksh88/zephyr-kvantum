@@ -132,8 +132,8 @@ style_vertical_toolbars=false
 [PanelButtonCommand]
 frame=true
 frame.element=button
-frame.top=2
-frame.bottom=2
+frame.top=1
+frame.bottom=1
 frame.left=3
 frame.right=3
 interior=true
@@ -155,8 +155,12 @@ min_width=+0.3font
 min_height=+0.3font
 frame.expansion=8
 
+# This is the Dolphin toolbar
 [PanelButtonTool]
 inherits=PanelButtonCommand
+frame=true
+frame.top=2
+frame.bottom=2
 
 [Dock]
 inherits=PanelButtonCommand
@@ -230,7 +234,7 @@ text.margin.right=0
 frame=true
 frame.top=1
 frame.bottom=1
-frame.left=6
+frame.left=5
 frame.right=7
 frame.expansion=8
 
@@ -255,20 +259,21 @@ text.press.color=#ffffffb3
 [Tab]
 inherits=PanelButtonCommand
 interior.element=tab
-text.margin.left=10
-text.margin.right=10
-text.margin.top=2
-text.margin.bottom=2
+text.margin.left=5
+text.margin.right=5
+text.margin.top=0
+text.margin.bottom=0
 text.iconspacing=4
 #text.bold=true
 frame.element=tab
+min_height=0
+min_width=0
 indicator.element=tab
-indicator.size=20
-indicator.iconpacing=100
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+indicator.size=30
+frame.top=10
+frame.bottom=10
+frame.left=10
+frame.right=10
 text.normal.color=#ffffffa6
 text.focus.color=#ffffffa6
 text.toggle.color=#ffffffa6
