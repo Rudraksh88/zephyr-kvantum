@@ -21,15 +21,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="11.313709"
-     inkscape:cx="778.17098"
-     inkscape:cy="12.683727"
+     inkscape:zoom="256"
+     inkscape:cx="590.7832"
+     inkscape:cy="455.17383"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg415"
+     inkscape:current-layer="g74"
      showguides="true">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -81,9 +81,31 @@
        orientation="0,-1"
        id="guide422"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="596.51171,184.40042"
+       orientation="0,-1"
+       id="guide18"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs16">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect18"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.2429629,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect269"
@@ -123,7 +145,7 @@
        id="path-effect251"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        radius="0"
        unit="px"
        method="auto"
@@ -276,7 +298,7 @@
        id="path-effect59"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,2.5000001,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.5000001,0,1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        radius="2.5"
        unit="px"
        method="auto"
@@ -1553,7 +1575,7 @@
        id="path-effect253-7"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,2.5,0,1 @ F,0,0,1,0,2.0000001e-06,0,1 @ F,0,0,1,0,2.0000001e-06,0,1 @ F,0,0,1,0,2.0000001e-06,0,1"
+       nodesatellites_param="F,0,0,1,0,2.5,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.0000001e-06,0,1 @ F,0,0,1,0,2.0000001e-06,0,1"
        radius="2e-06"
        unit="px"
        method="auto"
@@ -3059,7 +3081,7 @@
          y="0"
          xlink:href="#path57"
          id="use417"
-         transform="matrix(-1,0,0,1,170,-1.1125e-5)" />
+         transform="matrix(-1.0000002,0,0,1.0000002,170.00002,-1.3441251e-4)" />
       <path
          id="path111"
          x="90"
@@ -3081,13 +3103,13 @@
          y="425"
          width="5"
          height="5"
-         style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
+         style="opacity:0.35;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
          sodipodi:type="rect"
          ry="0"
          rx="0"
-         d="M 77.5,425 H 80 v 5 H 77.5 A 2.5000001,2.5000001 45 0 1 75,427.5 2.5,2.5 135 0 1 77.5,425 Z"
+         d="m 75,425 h 5 v 5 h -5 z"
          inkscape:path-effect="#path-effect59"
-         transform="matrix(0.89997934,0,0,0.89997934,8.0016527,43.008884)" />
+         transform="matrix(0.40000023,0,0,0.40000023,47.999982,255.56245)" />
       <path
          id="floating-tab-toggled-bottomright-7"
          x="90"
@@ -3120,10 +3142,10 @@
       <rect
          id="rect232"
          x="45"
-         y="405.79529"
+         y="405"
          width="10"
-         height="4.2047172"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.648437" />
+         height="5"
+         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.707107" />
     </g>
     <g
        id="floating-tab-focused-right"
@@ -3135,13 +3157,12 @@
          width="10"
          height="10"
          style="opacity:0;fill:#ffffff;fill-rule:evenodd" />
-      <rect
-         id="rect179"
-         x="55"
-         y="410"
-         width="4.549942"
-         height="10"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.674532" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect179-6"
+         id="use19"
+         transform="translate(15.999976)" />
     </g>
     <g
        id="floating-tab-focused-left"
@@ -3156,11 +3177,11 @@
          inkscape:label="floating-tab-focused-left" />
       <rect
          id="rect179-6"
-         x="40.450043"
+         x="39.000004"
          y="410"
-         width="4.5500002"
+         width="6"
          height="10"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.674536" />
+         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.774596" />
     </g>
     <g
        id="floating-tab-focused-topleft"
@@ -3174,8 +3195,9 @@
          height="10"
          style="opacity:0;fill:#ffffff;fill-rule:evenodd"
          sodipodi:type="rect"
-         d="m 45,400 v 10 H 35 a 10,10 135 0 1 10,-10 z"
-         inkscape:path-effect="#path-effect251" />
+         d="m 35,400 h 10 v 10 H 35 Z"
+         inkscape:path-effect="#path-effect251"
+         transform="translate(-0.00216377,0.5)" />
       <g
          id="g253"
          transform="translate(-550.0043,-44.5)">
@@ -3189,16 +3211,24 @@
            ry="0"
            sodipodi:type="rect"
            rx="0"
-           transform="matrix(1.6818907,0,0,1.6818907,-401.86693,-310.26026)"
-           d="m 592.50214,452.5 v 2.5 a 2.0000002e-6,2.0000002e-6 135 0 1 -1e-5,0 h -2.49999 a 2.0000001e-6,2.0000001e-6 45 0 1 0,0 2.499999,2.499999 135.00002 0 1 2.5,-2.5 z"
-           inkscape:path-effect="#path-effect253-7" />
+           transform="matrix(1.8619334,0,0,1.8619334,-509.54254,-392.52486)"
+           inkscape:path-effect="#path-effect18"
+           d="m 592.2451,452.5 h 0.25704 v 2.5 h -2.5 v -0.25704 A 2.2429629,2.2429629 135 0 1 592.2451,452.5 Z" />
         <rect
            id="rect179-6-5"
-           x="594.65692"
-           y="450.79529"
-           width="0.34523356"
-           height="4.2047052"
-           style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.120482" />
+           x="593.65698"
+           y="450"
+           width="1.3451834"
+           height="4.9999576"
+           style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.259341" />
+        <rect
+           id="rect20"
+           x="454.65488"
+           y="-593.65698"
+           width="0.34510005"
+           height="4.6548424"
+           style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.126743"
+           transform="rotate(90)" />
       </g>
     </g>
     <g
@@ -3211,13 +3241,12 @@
          width="10"
          height="10"
          style="opacity:0;fill:#ffffff;fill-rule:evenodd" />
-      <rect
-         id="rect232-8"
-         x="45"
-         y="420"
-         width="10"
-         height="4.2047181"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.648437" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect232"
+         id="use20"
+         transform="translate(0,15.000008)" />
     </g>
     <g
        id="floating-tab-focused-bottomright"
@@ -3269,7 +3298,7 @@
     <g
        id="floating-tab-focused-topright"
        inkscape:label="floating-tab-focused-topright"
-       transform="rotate(180,49.999987,415)">
+       transform="rotate(180,49.999993,415)">
       <path
          id="path245"
          x="35"
@@ -8226,7 +8255,7 @@
        transform="scale(1,-1)" />
   </g>
   <rect
-     style="display:inline;opacity:0.269147;fill:#0000ff;fill-rule:evenodd"
+     style="display:none;opacity:0.269147;fill:#0000ff;fill-rule:evenodd"
      id="rect177"
      width="20"
      height="20"
@@ -8235,7 +8264,7 @@
      ry="5.0000019"
      sodipodi:insensitive="true" />
   <rect
-     style="opacity:0.320819;fill:#030303;fill-opacity:1;fill-rule:evenodd"
+     style="display:none;opacity:0.320819;fill:#030303;fill-opacity:1;fill-rule:evenodd"
      id="rect251"
      width="19.999977"
      height="15"
