@@ -21,15 +21,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="16"
-     inkscape:cx="620.53125"
-     inkscape:cy="181.71875"
+     inkscape:zoom="22.627417"
+     inkscape:cx="577.68414"
+     inkscape:cy="434.31824"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g210"
+     inkscape:current-layer="svg415"
      showguides="true">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -3827,14 +3827,14 @@
     <path
        id="tabframe-normal"
        d="m 4,354 v 32 h 32 v -32 z"
-       style="opacity:0.37;fill:#292929;fill-rule:evenodd;fill-opacity:1" />
+       style="opacity:0.05;fill:#ffffff;fill-rule:evenodd;fill-opacity:1" />
     <g
        id="tabframe-normal-left"
        transform="matrix(0.8,0,0,0.98461538,-16.9998,305.99842)">
       <path
          transform="matrix(1.25,0,0,1.015625,-222.5,-427.57652)"
          d="m 196,469 v 32 h 3 v -32 z"
-         style="opacity:0.37;fill:#292929;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.05;fill:#ffffff;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path90" />
       <path
          d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z"
@@ -3847,7 +3847,7 @@
       <path
          transform="matrix(1.25,0,0,1.25,-222.5,-539.9984)"
          d="m 196,469 h 3 v -3 a 3,3 135 0 0 -3,3 z"
-         style="opacity:0.37;fill:#292929;fill-opacity:1;fill-rule:evenodd;stroke-width:0.8"
+         style="opacity:0.05;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.8"
          id="path92"
          sodipodi:nodetypes="ccccc"
          inkscape:path-effect="#path-effect9"
@@ -3865,7 +3865,7 @@
       <path
          transform="matrix(0,-1.015625,1.25,0,-560,283.36078)"
          d="m 199,466 v 3 h 32 v -3 z"
-         style="opacity:0.37;fill:#292929;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.05;fill:#ffffff;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path94" />
       <path
          d="m 21.25,48.7516 v 32.5 h 1.25 v -32.5 z"
@@ -3884,7 +3884,7 @@
       <path
          transform="matrix(-1.25,0,0,-1.015625,314.99975,557.57973)"
          d="m 231,469 v 32 h 3 v -32 z"
-         style="opacity:0.37;fill:#292929;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.05;fill:#ffffff;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path96" />
       <path
          d="m 21.25,48.7516 v 32.5 h 1.25 v -32.5 z"
@@ -3897,7 +3897,7 @@
       <path
          transform="matrix(0,1.015625,-1.25,0,652.49987,-153.35777)"
          d="m 199,501 v 3 h 32 v -3 z"
-         style="opacity:0.37;fill:#292929;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
+         style="opacity:0.05;fill:#ffffff;fill-rule:evenodd;stroke-width:0.88752;fill-opacity:1"
          id="path98" />
       <path
          d="m 21.25,48.7516 v 32.5 h 1.2499 v -32.5 z"
