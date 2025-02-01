@@ -250,6 +250,7 @@ indicator.size=10
 indicator.element=arrow
 indicator.size=8
 
+THIS IS THE KVANTUM CYBERPUNK STYLE TAB
 [ToolboxTab]
 inherits=PanelButtonCommand
 text.normal.color=#ffffffa6
@@ -293,7 +294,7 @@ inherits=PanelButtonCommand
 indicator.size=12
 indicator.element=tree
 
-TAB HEADERS
+TABLE HEADERS
 [HeaderSection]
 inherits=PanelButtonCommand
 interior.element=header
