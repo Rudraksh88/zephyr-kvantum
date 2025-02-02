@@ -22,14 +22,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="32"
-     inkscape:cx="636.79687"
-     inkscape:cy="464.57812"
+     inkscape:cx="596.85937"
+     inkscape:cy="462.23437"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15"
+     inkscape:current-layer="g74"
      showguides="true">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -82,7 +82,7 @@
        id="guide422"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="596.55469,184.50043"
+       position="596.6836,184.85043"
        orientation="0,-1"
        id="guide18"
        inkscape:locked="false" />
@@ -476,7 +476,7 @@
        id="path-effect251"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,8.9976826,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       nodesatellites_param="F,0,0,1,0,8.9748552,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        radius="0"
        unit="px"
        method="auto"
@@ -3918,11 +3918,11 @@
          transform="translate(-568.28125,-45)" />
       <rect
          id="rect232"
-         x="45"
-         y="405.60001"
+         x="45.000008"
+         y="405.14999"
          width="10"
-         height="4.4000001"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.663325" />
+         height="4.8499999"
+         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.696419" />
     </g>
     <g
        id="floating-tab-focused-right"
@@ -3939,7 +3939,7 @@
          y="0"
          xlink:href="#rect179-6"
          id="use19"
-         transform="translate(15.000004)" />
+         transform="translate(14.849998,-1.2e-5)" />
     </g>
     <g
        id="floating-tab-focused-left"
@@ -3954,11 +3954,11 @@
          inkscape:label="floating-tab-focused-left" />
       <rect
          id="rect179-6"
-         x="40"
+         x="40.150002"
          y="410"
-         width="4.9999986"
+         width="4.8499999"
          height="10"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.707104" />
+         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.696417" />
     </g>
     <g
        id="floating-tab-focused-topleft"
@@ -3973,9 +3973,9 @@
          height="10"
          style="opacity:0.08;fill:#ffffff;fill-rule:evenodd"
          sodipodi:type="rect"
-         d="M 43.997683,400 H 45 v 10 H 35 v -1.00232 A 8.9976826,8.9976826 135 0 1 43.997683,400 Z"
-         inkscape:path-effect="#path-effect251"
-         transform="matrix(0.44000064,0,0,0.44000064,24.597788,230.09974)" />
+         transform="matrix(0.4850012,0,0,0.4850012,23.17279,211.64952)"
+         d="M 43.974855,400 H 45 v 10 H 35 v -1.02514 A 8.9748552,8.9748552 135 0 1 43.974855,400 Z"
+         inkscape:path-effect="#path-effect251" />
       <rect
          style="display:inline;fill:#0000ff;fill-rule:evenodd;opacity:0"
          id="rect12"
@@ -3986,13 +3986,6 @@
       <g
          id="g253"
          transform="translate(-550.0043,-44.5)" />
-      <rect
-         style="opacity:0.08;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.0832"
-         id="rect435"
-         width="0.60002685"
-         height="4.3999858"
-         x="44.397816"
-         y="406.10001" />
     </g>
     <g
        id="floating-tab-focused-bottom"
@@ -4009,7 +4002,7 @@
          y="0"
          xlink:href="#rect232"
          id="use20"
-         transform="translate(0,14.399996)" />
+         transform="translate(-8.8624836e-6,14.84997)" />
     </g>
     <g
        id="floating-tab-focused-bottomright"
@@ -4436,7 +4429,7 @@
            transform="matrix(0.20890096,0,0,1.5,138.27807,336.50001)"
            style="opacity:1" />
         <path
-           style="fill:#ffffff;fill-rule:evenodd;fill-opacity:1;opacity:0.25"
+           style="opacity:0.25;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="rect434"
            width="1.6407087"
            height="1.6407087"
