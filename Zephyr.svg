@@ -21,15 +21,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="32"
-     inkscape:cx="596.85937"
-     inkscape:cy="462.23437"
+     inkscape:zoom="32.000001"
+     inkscape:cx="604.3281"
+     inkscape:cy="461.73435"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g74"
+     inkscape:current-layer="svg415"
      showguides="true">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -3906,7 +3906,7 @@
        y="410"
        width="10"
        height="10"
-       style="opacity:0.08;fill:#ffffff;fill-rule:evenodd" />
+       style="opacity:0.07;fill:#ffffff;fill-rule:evenodd" />
     <g
        id="floating-tab-focused-top"
        inkscape:label="floating-tab-focused-top">
@@ -3922,7 +3922,7 @@
          y="405.14999"
          width="10"
          height="4.8499999"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.696419" />
+         style="opacity:0.07;fill:#ffffff;fill-rule:evenodd;stroke-width:0.696419" />
     </g>
     <g
        id="floating-tab-focused-right"
@@ -3958,7 +3958,7 @@
          y="410"
          width="4.8499999"
          height="10"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd;stroke-width:0.696417" />
+         style="opacity:0.07;fill:#ffffff;fill-rule:evenodd;stroke-width:0.696417" />
     </g>
     <g
        id="floating-tab-focused-topleft"
@@ -3971,7 +3971,7 @@
          y="400"
          width="10"
          height="10"
-         style="opacity:0.08;fill:#ffffff;fill-rule:evenodd"
+         style="opacity:0.07;fill:#ffffff;fill-rule:evenodd"
          sodipodi:type="rect"
          transform="matrix(0.4850012,0,0,0.4850012,23.17279,211.64952)"
          d="M 43.974855,400 H 45 v 10 H 35 v -1.02514 A 8.9748552,8.9748552 135 0 1 43.974855,400 Z"
@@ -4333,7 +4333,7 @@
         <path
            id="path242"
            d="m 138.9998,345.0625 v 32 h 32 v -32 z"
-           style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd" />
+           style="opacity:0.003;fill:#ffffff;fill-opacity:1;fill-rule:evenodd" />
       </g>
       <g
          id="tab-toggled-left"
@@ -4345,7 +4345,7 @@
            inkscape:label="reserve"
            sodipodi:insensitive="true" />
         <rect
-           style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.24468"
+           style="opacity:0.003;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.24468"
            id="rect242"
            width="10.000257"
            height="32.499989"
@@ -4374,7 +4374,7 @@
            id="use243"
            transform="matrix(0.65573749,0,0,-0.43715833,-87.848404,443.8471)" />
         <rect
-           style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.79165"
+           style="opacity:0.003;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.79165"
            id="rect245"
            width="3.2785451"
            height="1.9672124"
@@ -4426,10 +4426,10 @@
            y="0"
            xlink:href="#path82"
            id="use132"
-           transform="matrix(0.20890096,0,0,1.5,138.27807,336.50001)"
+           transform="matrix(0.18749409,0,0,1.5,141.93864,336.50001)"
            style="opacity:1" />
         <path
-           style="opacity:0.25;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+           style="opacity:0.32;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="rect434"
            width="1.6407087"
            height="1.6407087"
@@ -4438,9 +4438,9 @@
            inkscape:path-effect="#path-effect435-5"
            sodipodi:type="rect"
            d="m 683.33584,435.43414 v 1.64071 h -1.64071 a 1.6407087,1.6407087 135 0 1 1.64071,-1.64071 z"
-           transform="matrix(0.80146678,0,0,1.2022002,-380.35571,396.04854)" />
+           transform="matrix(1.2189871,0,0,1.8284807,-664.97729,122.31708)" />
         <path
-           style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+           style="opacity:0.003;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="rect240"
            width="8.000206"
            height="8.000206"
@@ -4451,7 +4451,7 @@
            d="m 130.99979,381.99979 h 8.0002 v 8.0002 h -2.1e-4 A 7.9999895,7.9999895 45 0 1 130.99979,382 Z"
            transform="matrix(0.37501691,0,0,0.56252537,116.87316,694.61512)" />
         <rect
-           style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.47866"
+           style="opacity:0.003;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.47866"
            id="rect241"
            width="4.9995723"
            height="4.5001884"
@@ -4464,10 +4464,10 @@
         <path
            id="path36"
            d="m 139,382 h 31.9998 v 3 h -32 z"
-           style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.866023" />
+           style="opacity:0.003;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.866023" />
         <path
-           d="M 138.9998,388.68501 V 390 h 32 v -1.31499 z"
-           style="opacity:0.25;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.587597"
+           d="m 138.9998,388 v 2 h 32 v -2 z"
+           style="opacity:0.32;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.724658"
            id="path82" />
       </g>
       <g
@@ -4692,7 +4692,7 @@
         <path
            id="path416"
            d="m 138.9998,345.0625 v 32 h 32 v -32 z"
-           style="opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd" />
+           style="opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd" />
       </g>
       <g
          id="tab-focused-left"
@@ -4704,7 +4704,7 @@
            inkscape:label="reserve"
            sodipodi:insensitive="true" />
         <rect
-           style="opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.983993"
+           style="opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.983993"
            id="rect417"
            width="6.2499962"
            height="32.499989"
@@ -4727,7 +4727,7 @@
            id="use418"
            transform="matrix(0,0.52458999,-0.16141237,0,34.119453,32.481107)" />
         <path
-           style="display:inline;opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+           style="display:inline;opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path423-6"
            width="8.000206"
            height="8.000206"
@@ -4738,7 +4738,7 @@
            d="m 130.99979,381.99979 h 8.0002 v 8.0002 h -2.1e-4 A 7.9999895,7.9999895 45 0 1 130.99979,382 Z"
            transform="matrix(0.24591265,0,0,-0.24591265,-9.2429431,140.19025)" />
         <rect
-           style="opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500641"
+           style="opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500641"
            id="rect419"
            width="1.3111944"
            height="1.9672124"
@@ -4755,7 +4755,7 @@
         <path
            id="path424-4"
            d="M 22.500154,81.251216 V 48.751419 h 3.75 v 32.5 z"
-           style="display:inline;opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.975778" />
+           style="display:inline;opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.975778" />
       </g>
       <g
          id="tab-focused-bottomleft"
@@ -4771,10 +4771,10 @@
            y="0"
            xlink:href="#path82"
            id="use423"
-           transform="matrix(0.21792094,0,0,1.5,136.73566,336.50001)"
+           transform="matrix(0.21792094,0,0,1.5,136.73566,337.52753)"
            style="opacity:0" />
         <path
-           style="opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+           style="opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
            id="path423"
            width="8.000206"
            height="8.000206"
@@ -4785,7 +4785,7 @@
            d="m 130.99979,381.99979 h 8.0002 v 8.0002 h -2.1e-4 A 7.9999895,7.9999895 45 0 1 130.99979,382 Z"
            transform="matrix(0.37501691,0,0,0.56252537,119.88612,694.61518)" />
         <rect
-           style="opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.93209"
+           style="opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.93209"
            id="rect423"
            width="1.9866015"
            height="4.5001884"
@@ -4798,7 +4798,7 @@
         <path
            id="path424"
            d="m 139,382 h 31.9998 v 3 h -32 z"
-           style="opacity:0.04;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.866023" />
+           style="opacity:0.07;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.866023" />
         <path
            d="M 138.9998,388.68501 V 390 h 32 v -1.31499 z"
            style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.587597"
