@@ -275,9 +275,9 @@ frame.top=10
 frame.bottom=10
 frame.left=10
 frame.right=10
-text.normal.color=#ffffffa6
-text.focus.color=#ffffffa6
-text.toggle.color=#ffffffa6
+text.normal.color=#ffffffb3
+text.focus.color=#ffffffb3
+text.toggle.color=#ffffffb3
 frame.expansion=0
 
 [TabFrame]
