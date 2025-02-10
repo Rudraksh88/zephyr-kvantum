@@ -21,15 +21,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="32.000001"
-     inkscape:cx="604.3281"
-     inkscape:cy="461.73435"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="686.86583"
+     inkscape:cy="445.74243"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg415"
+     inkscape:current-layer="g74"
      showguides="true">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -4203,12 +4203,6 @@
          inkscape:label="floating-tab-focused-bottomleft"
          transform="translate(44.247891,-1.0000062)"
          style="display:inline">
-        <use
-           x="0"
-           y="0"
-           xlink:href="#floating-tab-focused-topleft-2"
-           id="use13-6"
-           transform="matrix(1,0,0,-1,-44.247944,828.99999)" />
         <rect
            id="rect232-5-1-7"
            x="39.700012"
@@ -4227,12 +4221,6 @@
          id="floating-tab-toggled-topright"
          inkscape:label="floating-tab-focused-topright"
          transform="rotate(180,72.123938,414.5)">
-        <use
-           x="0"
-           y="0"
-           xlink:href="#floating-tab-focused-topleft-2"
-           id="use15-8"
-           transform="matrix(1,0,0,-1,-44.247891,828.99999)" />
         <use
            x="0"
            y="0"
