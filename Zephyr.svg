@@ -21,9 +21,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="45.254834"
-     inkscape:cx="125.68823"
-     inkscape:cy="263.69559"
+     inkscape:zoom="64"
+     inkscape:cx="506.21875"
+     inkscape:cy="252.00781"
      inkscape:window-width="2057"
      inkscape:window-height="1255"
      inkscape:window-x="0"
@@ -8902,7 +8902,7 @@
        style="fill-rule:evenodd" />
   </g>
   <g
-     transform="translate(375.99952,104.00002)"
+     transform="translate(375.99951,104.00002)"
      id="menuitem-separator"
      style="opacity:1">
     <rect
@@ -8913,8 +8913,8 @@
        x="124.99999"
        y="145.99998" />
     <path
-       d="M 124.99998,149.09998 H 141 v 0.8 h -16.00002 z"
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.923755"
+       d="m 125.04999,148.89998 h 15.9 v 1.2 h -15.9 z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.12783"
        id="path102844"
        sodipodi:nodetypes="ccccc" />
   </g>
