@@ -25,6 +25,7 @@ center_doc_tabs=false
 center_normal_tabs=true
 attach_active_tab=true
 mirror_doc_tabs=true
+bold_active_tab=true
 
 #checkbox size
 check_size=16
@@ -277,9 +278,9 @@ frame.top=10
 frame.bottom=10
 frame.left=10
 frame.right=10
-text.normal.color=#ffffffb3
-text.focus.color=#ffffffb3
-text.toggle.color=#ffffffb3
+text.normal.color=#ffffff8C
+text.focus.color=#ffffffBF
+text.toggle.color=#fffffBF
 frame.expansion=0
 
 [TabFrame]
