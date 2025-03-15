@@ -56,7 +56,7 @@ groupbox_top_label=true
 inline_spin_indicators=true
 joined_inactive_tabs=false
 layout_spacing=6
-layout_margin=6
+layout_margin=8
 scrollbar_in_view=true
 transient_scrollbar=true
 transient_groove=false
@@ -278,9 +278,9 @@ frame.top=10
 frame.bottom=10
 frame.left=10
 frame.right=10
-text.normal.color=#ffffff8C
+text.normal.color=#ffffff78
 text.focus.color=#ffffffBF
-text.toggle.color=#fffffBF
+text.toggle.color=#ffffffBF
 frame.expansion=0
 
 [TabFrame]
