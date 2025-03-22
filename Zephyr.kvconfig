@@ -243,11 +243,11 @@ frame.expansion=8
 
 [DropDownButton]
 inherits=PanelButtonCommand
-indicator.element=arrow-down
+indicator.element=carrow
 frame=true
 frame.left=10
 frame.right=10
-indicator.size=10
+indicator.size=13
 
 [IndicatorArrow]
 indicator.element=arrow
@@ -490,14 +490,16 @@ frame.expansion=0
 inherits=PanelButtonCommand
 interior.element=combo
 frame.element=combo
-text.press.color=#d2d2d4
 indicator.element=carrow
 frame=true
 frame.left=10
 frame.right=7
 frame.top=1
 frame.bottom=1
-indicator.size=10
+indicator.size=13
+text.normal.color=#ffffffBF
+text.focus.color=#ffffffD9
+text.press.color=#ffffffBF
 
 [GroupBox]
 inherits=GenericFrame
