@@ -21,15 +21,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="16"
-     inkscape:cx="700.09375"
-     inkscape:cy="127.46875"
+     inkscape:zoom="22.627417"
+     inkscape:cx="618.63005"
+     inkscape:cy="113.60112"
      inkscape:window-width="2057"
      inkscape:window-height="1255"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="checkbox-checked-focused"
+     inkscape:current-layer="radio-checked-focused"
      showguides="false">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -7777,7 +7777,7 @@
          inkscape:label="faux padding" />
       <g
          id="g1"
-         transform="matrix(0.93749979,0,0,0.93749979,0.50000067,10.125033)">
+         transform="translate(0.00174344)">
         <circle
            style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round"
            id="path10-7"
@@ -7798,7 +7798,7 @@
        id="radio-focused"
        transform="translate(20,-89)">
       <circle
-         style="opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round"
+         style="opacity:0.38317188;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round"
          id="circle1-5"
          cx="7.9997902"
          cy="162"
@@ -7806,7 +7806,7 @@
          inkscape:label="faux padding" />
       <g
          id="g2"
-         transform="matrix(0.93749979,0,0,0.93749979,0.49979262,10.125033)">
+         transform="translate(-0.00216377)">
         <circle
            style="opacity:0.35;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round"
            id="path10"
@@ -7835,7 +7835,7 @@
          inkscape:label="faux padding" />
       <g
          id="g3"
-         transform="matrix(0.9375,0,0,0.9375,0.49803107,10.125)">
+         transform="translate(-0.001956)">
         <path
            d="m 8,154 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
            style="display:none;fill:#6e6e70"
@@ -7864,7 +7864,7 @@
          inkscape:label="faux padding" />
       <g
          id="g4"
-         transform="matrix(0.9375,0,0,0.9375,0.49803107,10.125)">
+         transform="translate(-0.00216293)">
         <path
            d="m 8,154 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,2 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
            style="display:none;fill:#6e6e70"
