@@ -28,7 +28,7 @@ mirror_doc_tabs=true
 bold_active_tab=true
 
 #checkbox size
-check_size=16
+check_size=15
 
 textless_progressbar=false
 progressbar_thickness=2
