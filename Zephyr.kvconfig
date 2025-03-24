@@ -523,8 +523,8 @@ frame.right=4
 
 [ToolTip]
 inherits=GenericFrame
-frame.top=3
-frame.bottom=3
+frame.top=0
+frame.bottom=0
 frame.left=3
 frame.right=3
 interior=true
