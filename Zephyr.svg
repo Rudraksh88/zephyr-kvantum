@@ -21,15 +21,15 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="16"
-     inkscape:cx="771.5625"
-     inkscape:cy="115.78125"
+     inkscape:zoom="8"
+     inkscape:cx="614"
+     inkscape:cy="108.375"
      inkscape:window-width="2057"
      inkscape:window-height="1255"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg415"
+     inkscape:current-layer="g250"
      showguides="false">
     <sodipodi:guide
        position="633.97173,163.35831"
@@ -7798,7 +7798,7 @@
        id="radio-focused"
        transform="translate(20,-89)">
       <circle
-         style="opacity:0.38317188;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round"
+         style="opacity:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round"
          id="circle1-5"
          cx="7.9997902"
          cy="162"

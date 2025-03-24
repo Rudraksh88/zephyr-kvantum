@@ -9,7 +9,7 @@ toolbar_interior_spacing=8
 spread_progressbar=true
 composite=true
 menu_shadow_depth=5
-menu_separator_height=8
+menu_separator_height=9
 spread_menuitems=true
 tooltip_shadow_depth=6
 splitter_width=6
@@ -294,7 +294,7 @@ frame.right=4
 
 [TreeExpander]
 inherits=PanelButtonCommand
-indicator.size=12
+indicator.size=11
 indicator.element=tree
 
 TABLE HEADERS
