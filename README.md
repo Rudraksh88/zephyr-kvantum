@@ -6,7 +6,7 @@ Thoughtfully crafted with a refined monochrome palette, it brings a subtle touch
 Tailored to pair seamlessly with [Zephyr Icons](https://github.com/Rudraksh88/zephyr-icons), this theme is perfect for Dark Mode enthusiasts. It features translucent elements that softly blend with the background, adding just the right hint of color for a sleek, modern aesthetic.
 
 > [!NOTE]
-> Zephyr decoration theme (based on KDecoration2) is archived due to new KDecoration3 API that introduced breaking changes. Instead, use this with my fork of Sierra Breeze Enhanced, which has the same style baked in.
+> Zephyr decoration theme (based on `KDecoration2`) is archived due to new `KDecoration3` API that introduced breaking changes. Instead, use this with my fork of Sierra Breeze Enhanced, which has the same style baked in.
 
 # Screenshots
 ![Dolphin](images/Dolphin.png)
@@ -16,9 +16,10 @@ Tailored to pair seamlessly with [Zephyr Icons](https://github.com/Rudraksh88/ze
 ![Kvantum-Preview-2](images/KvantumPreview2.png)
 
 > [!TIP]
+> * **Musik Plasmoid:** A slick music player widget by yours truly, available [here](https://github.com/Rudraksh88/musik-plasmoid)
 > * **Window Decoration:** Personal fork of Sierra Breeze Enhanced
 > * **Icons:** [Zephyr Icons](https://github.com/Rudraksh88/zephyr-icons)
-> * **UI Font:** Inter Display (Froze `'ss04', 'cv03', 'cv04', 'cpsp'` font features using FontFreeze)
+> * **UI Font:** Inter Display, with font features `ss04`, `cv03`, `cv04`, and `cpsp` frozen in time via FontFreeze.
 
 # Installation
 #### Requirements
@@ -27,7 +28,7 @@ Tailored to pair seamlessly with [Zephyr Icons](https://github.com/Rudraksh88/ze
 #### Steps
 1. Clone the repo into `~/.config/Kvantum`
 ```bash
-mkdir -p ~/.config/Kvantum
+mkdir -p ~/.config/Kvantum # Create if it doesn't exist else skip
 git clone https://github.com/Rudraksh88/zephyr-kvantum.git ~/.config/Kvantum/Zephyr
 ```
 
@@ -37,7 +38,7 @@ git clone https://github.com/Rudraksh88/zephyr-kvantum.git ~/.config/Kvantum/Zep
    - Choose **Zephyr** from the list of available themes.
    - Click **Apply** to set the theme.
 
-You can alternatively just select the `Zephyr` folder (just clone it) right in the Kvantum Manager and it will install it for you.
+You can alternatively just select the `Zephyr` folder (after cloning it) right in the Kvantum Manager and it will install it for you.
 
 Essentially, the Zephyr folder (containing the svg and kvconfig files) should be in `~/.config/Kvantum/` directory. Do that however you like LOL.
 
