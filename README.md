@@ -42,6 +42,18 @@ You can alternatively just select the `Zephyr` folder (after cloning it) right i
 
 Essentially, the Zephyr folder (containing the svg and kvconfig files) should be in `~/.config/Kvantum/` directory. Do that however you like LOL.
 
+# Support
+This theme was powered up using 100% organically-sourced, sustainably-grown coffee and a lot of late nights. If it brought you joy (which I'm sure it did), consider providing a treat — coffee, snacks  and beer accepted. Donations may unlock bonus content (or at least a grin).
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange.svg?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/rudraksh.tripathi)
+
+<!-- Patreon: [Rudraksh Tripathi](https://patreon.com/RudrakshTripathi?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) -->
+
+<!-- PayPal -->
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg?style=flat&logo=paypal)](https://www.paypal.me/rudrakshtripathi)
+
+**Only for India** UPI: `rudraksh-tripathi@ibl`
+
 # Credits
 I want to acknowledge the following individuals and projects that influenced this work:
 
