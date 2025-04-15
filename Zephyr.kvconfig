@@ -268,7 +268,7 @@ frame.right=10
 text.margin.left=0
 text.margin.right=0
 text.iconspacing=10
-indicator.size=13
+indicator.size=14
 
 [IndicatorArrow]
 indicator.element=arrow
@@ -522,7 +522,7 @@ frame.left=1
 frame.right=7
 frame.top=1
 frame.bottom=1
-indicator.size=13
+indicator.size=14
 text.normal.color=#ffffffBF
 text.focus.color=#ffffffD9
 text.press.color=#ffffffBF
