@@ -16,8 +16,8 @@ Tailored to pair seamlessly with [Zephyr Icons](https://github.com/Rudraksh88/ze
 ![Kvantum-Preview-2](images/KvantumPreview2.png)
 
 > [!TIP]
-> * **Musik Plasmoid:** A slick music player widget by yours truly, available [here](https://github.com/Rudraksh88/musik-plasmoid)
-> * **Window Decoration:** Personal fork of Sierra Breeze Enhanced
+> * **MusiK Plasmoid:** A slick music player widget by yours truly, available [here](https://github.com/Rudraksh88/musik-plasmoid)
+> * **Window Decoration:** [**Kustom Breeze Enhanced**](https://github.com/Rudraksh88/KustomBreezeEnhanced) - Personal fork of Sierra Breeze Enhanced
 > * **Icons:** [Zephyr Icons](https://github.com/Rudraksh88/zephyr-icons)
 > * **UI Font:** Inter Display, with font features `ss04`, `cv03`, `cv04`, and `cpsp` frozen in time via FontFreeze.
 
