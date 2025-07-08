@@ -81,7 +81,7 @@ intensity=1.00
 menu_blur_radius=4
 saturation=1.00
 shadowless_popup=false
-tooltip_blur_radius=2
+tooltip_blur_radius=0
 
 [GeneralColors]
 window.color=#121212
