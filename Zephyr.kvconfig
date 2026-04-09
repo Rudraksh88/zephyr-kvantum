@@ -8,7 +8,7 @@ toolbar_item_spacing=1
 toolbar_interior_spacing=8
 spread_progressbar=true
 composite=true
-menu_shadow_depth=1
+menu_shadow_depth=20
 menu_separator_height=9
 spread_menuitems=true
 tooltip_shadow_depth=7
@@ -28,7 +28,7 @@ mirror_doc_tabs=true
 bold_active_tab=true
 
 #checkbox size
-check_size=15
+check_size=16
 
 textless_progressbar=false
 progressbar_thickness=2
@@ -95,7 +95,7 @@ light.color=#464648
 mid.light.color=#323234
 dark.color=#141416
 mid.color=#38383a
-highlight.color=#727274
+highlight.color=#ffffff3d
 inactive.highlight.color=#5a5a5c
 text.color=#bebebe
 window.text.color=#aaaaaa
@@ -438,10 +438,10 @@ frame.expansion=48
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=24
-frame.bottom=24
-frame.left=24
-frame.right=24
+frame.top=8
+frame.bottom=8
+frame.left=8
+frame.right=8
 frame.element=menu
 interior.element=menu
 text.normal.color=#dfdfdf
