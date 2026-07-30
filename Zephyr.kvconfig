@@ -9,7 +9,7 @@ toolbar_interior_spacing=8
 spread_progressbar=true
 composite=true
 menu_shadow_depth=15
-menu_separator_height=9
+menu_separator_height=12
 spread_menuitems=true
 tooltip_shadow_depth=7
 splitter_width=6
@@ -34,7 +34,7 @@ textless_progressbar=false
 progressbar_thickness=2
 #toolbar_item_spacing=20
 menubar_mouse_tracking=true
-toolbutton_style=1
+toolbutton_style=0
 double_click=false
 translucent_windows=true
 blurring=true
@@ -65,7 +65,7 @@ submenu_overlap=10
 tooltip_delay=-1
 tree_branch_line=true
 dark_titlebar=true
-opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,VirtualBox,VirtualBoxVM,trojita,dragon,digikam,systemsettings,gwenview
+opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,VirtualBox,VirtualBoxVM,trojita,dragon,digikam,systemsettings
 reduce_window_opacity=18
 scrollable_menu=true
 submenu_delay=250
@@ -397,8 +397,8 @@ inherits=PanelButtonCommand
 text.margin=0
 frame.element=itemview
 interior.element=itemview
-frame.top=2
-frame.bottom=2
+frame.top=0
+frame.bottom=0
 frame.left=0
 frame.right=2
 text.margin.top=0
@@ -410,7 +410,8 @@ text.focus.color=#ffffffcc
 text.press.color=#ffffffb3
 text.toggle.color=#ffffffa6
 min_width=+0.3font
-min_height=+0.2font
+min_height=+0.1font
+# min height was +0.2 font
 frame=true
 frame.expansion=0
 
@@ -570,10 +571,9 @@ frame.expansion=0
 
 [StatusBar]
 inherits=GenericFrame
-frame=false
+frame=true
 interior=false
-interior=false
-text.bold=true
+text.bold=false
 min_height=+0.3font
 
 [Window]
