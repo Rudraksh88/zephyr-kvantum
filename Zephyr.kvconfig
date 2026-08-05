@@ -466,7 +466,7 @@ frame.bottom=0
 frame.left=2
 frame.right=12
 frame.expansion=0
-indicator.size=10
+indicator.size=11
 text.iconspacing=10
 
 [MenuBar]
